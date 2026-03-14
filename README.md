@@ -48,8 +48,9 @@ Place both files in the same directory.
 
 Run the scripts individually:
 
-python selection_algorithms.py
-python elementary_data_structures.py
+# python selection_algorithms.py
+
+# python elementary_data_structures.py
 
 Each script will demonstrate the implemented algorithms or data structure operations and display the results.
 
